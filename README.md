@@ -32,9 +32,6 @@ A differential drive mobile robot I built myself. I chose and bought the compone
 - **Mechanical:** Assembled the multi-layer chassis with motors, caster wheel and mounting plates
 - **Software:** Wrote [describe: motor control, LiDAR setup, ROS 2 nodes, etc.]
 
-## Challenges
-- [One real problem you hit, e.g. motors spinning the wrong way, power drops, LiDAR not detected, and how you fixed it]
-
 ## Software
 My autonomous exploration code for this kind of robot: [ros2-random-exploration](https://github.com/jay-robotics/ros2-random-exploration)
 
