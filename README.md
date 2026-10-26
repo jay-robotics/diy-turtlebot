@@ -30,7 +30,7 @@ A differential drive mobile robot I built myself. I chose and bought the compone
 - **Sourcing:** Selected and bought all components myself
 - **Electronics:** Soldered connections and wired the power distribution, motor driver, LiDAR and camera to the Raspberry Pi
 - **Mechanical:** Assembled the multi-layer chassis with motors, caster wheel and mounting plates
-- **Software:** Wrote [describe: motor control, LiDAR setup, ROS 2 nodes, etc.]
+- **Software:** Modified the LiDAR driver to make it work with ROS 2 Jazzy on the Raspberry Pi
 
 ## Software
 My autonomous exploration code for this kind of robot: [ros2-random-exploration](https://github.com/jay-robotics/ros2-random-exploration)
